@@ -1,0 +1,1 @@
+DATABASE_URL="postgresql://postgres:nada-dev-123@34.32.11.227:5432/custom_crm_dev"
